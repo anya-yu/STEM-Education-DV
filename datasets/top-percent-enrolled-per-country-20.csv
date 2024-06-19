@@ -1,0 +1,433 @@
+﻿"COUNTRY","Country","SEX","Gender","EDUCATION_FIELD","Field","MOBILITY","Country of citizenship","EDUCATION_LEV","Education level","YEAR","Year","Value","Flag Codes","Flags"
+"FRA","France","_T","Total","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",114341,,
+"FRA","France","F","Female","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",5430,,
+"FRA","France","_T","Total","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",11737,,
+"FRA","France","M","Male","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","_T","Total","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","F","Female","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",29958,,
+"FRA","France","M","Male","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",31528,,
+"FRA","France","M","Male","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",7373,,
+"FRA","France","M","Male","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","F","Female","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",5247,,
+"FRA","France","M","Male","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",26652,,
+"FRA","France","F","Female","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",1350,,
+"FRA","France","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",4557,,
+"FRA","France","F","Female","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","M","Male","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","F","Female","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",8105,,
+"FRA","France","M","Male","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",32777,,
+"FRA","France","_T","Total","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",40882,,
+"FRA","France","F","Female","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",2873,,
+"FRA","France","M","Male","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",6278,,
+"FRA","France","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",9151,,
+"FRA","France","M","Male","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","F","Female","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",32022,,
+"FRA","France","F","Female","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","M","Male","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","F","Female","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",48444,,
+"FRA","France","_T","Total","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",168683,,
+"FRA","France","F","Female","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",7732,,
+"FRA","France","M","Male","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",15007,,
+"FRA","France","_T","Total","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",22739,,
+"FRA","France","M","Male","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"DEU","Germany","F","Female","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",71465,,
+"DEU","Germany","F","Female","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",6004,,
+"DEU","Germany","_T","Total","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",12043,,
+"DEU","Germany","F","Female","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",985,,
+"DEU","Germany","M","Male","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",1084,,
+"DEU","Germany","_T","Total","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",2069,,
+"DEU","Germany","M","Male","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",56310,,
+"DEU","Germany","_T","Total","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",15401,,
+"DEU","Germany","F","Female","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",561,,
+"DEU","Germany","F","Female","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",38720,,
+"DEU","Germany","M","Male","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",141239.282,,
+"DEU","Germany","_T","Total","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",179959.282,,
+"DEU","Germany","F","Female","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",5467,,
+"DEU","Germany","M","Male","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",13049,,
+"DEU","Germany","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",18516,,
+"DEU","Germany","F","Female","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",12301,,
+"DEU","Germany","_T","Total","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",54074,,
+"DEU","Germany","F","Female","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",214,,
+"DEU","Germany","M","Male","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",618,,
+"DEU","Germany","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",832,,
+"DEU","Germany","F","Female","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",96918.13,,
+"DEU","Germany","M","Male","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",362698.912,,
+"DEU","Germany","_T","Total","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",459617.041,,
+"DEU","Germany","F","Female","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",957,,
+"DEU","Germany","M","Male","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",2815,,
+"DEU","Germany","_T","Total","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",3772,,
+"DEU","Germany","_T","Total","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",156307,,
+"DEU","Germany","F","Female","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",521,,
+"DEU","Germany","M","Male","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",1300,,
+"DEU","Germany","_T","Total","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",1821,,
+"JPN","Japan","M","Male","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",56619,"w","Includes data from another category"
+"JPN","Japan","_T","Total","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",78416,"w","Includes data from another category"
+"JPN","Japan","M","Male","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",771,"w","Includes data from another category"
+"JPN","Japan","_T","Total","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","F","Female","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",4899,"w","Includes data from another category"
+"JPN","Japan","_T","Total","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",19781,"w","Includes data from another category"
+"JPN","Japan","F","Female","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",423,"w","Includes data from another category"
+"JPN","Japan","M","Male","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",724,"w","Includes data from another category"
+"JPN","Japan","_T","Total","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",1147,"w","Includes data from another category"
+"JPN","Japan","_T","Total","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","F","Female","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"JPN","Japan","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"JPN","Japan","F","Female","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","M","Male","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","F","Female","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"JPN","Japan","_T","Total","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"JPN","Japan","M","Male","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"JPN","Japan","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"JPN","Japan","F","Female","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","F","Female","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",58708,"w","Includes data from another category"
+"JPN","Japan","_T","Total","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",381035,"w","Includes data from another category"
+"JPN","Japan","F","Female","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",2306,"w","Includes data from another category"
+"JPN","Japan","M","Male","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",7208,"w","Includes data from another category"
+"JPN","Japan","M","Male","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","_T","Total","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","F","Female","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",9132,"w","Includes data from another category"
+"JPN","Japan","M","Male","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",57887,"w","Includes data from another category"
+"JPN","Japan","F","Female","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",2258,"w","Includes data from another category"
+"JPN","Japan","_T","Total","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",7562,"w","Includes data from another category"
+"JPN","Japan","M","Male","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","_T","Total","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","F","Female","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",61878,,
+"MEX","Mexico","M","Male","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",61393,,
+"MEX","Mexico","_T","Total","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",123271,,
+"MEX","Mexico","F","Female","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","M","Male","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","F","Female","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","F","Female","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",4578,,
+"MEX","Mexico","M","Male","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",5294,,
+"MEX","Mexico","_T","Total","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",9872,,
+"MEX","Mexico","F","Female","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","M","Male","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","_T","Total","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","F","Female","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",56826,,
+"MEX","Mexico","M","Male","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",185306,,
+"MEX","Mexico","_T","Total","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",242132,,
+"MEX","Mexico","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","F","Female","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",1899,,
+"MEX","Mexico","M","Male","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",5674,,
+"MEX","Mexico","_T","Total","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",7573,,
+"MEX","Mexico","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","_T","Total","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",920409,,
+"MEX","Mexico","F","Female","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","M","Male","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","_T","Total","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","F","Female","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","_T","Total","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","F","Female","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",4927,,
+"MEX","Mexico","M","Male","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",10012,,
+"MEX","Mexico","_T","Total","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",14939,,
+"MEX","Mexico","F","Female","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","_T","Total","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","F","Female","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","M","Male","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","_T","Total","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","_T","Total","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","F","Female","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","M","Male","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","M","Male","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","_T","Total","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","F","Female","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","_T","Total","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","_T","Total","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","F","Female","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","M","Male","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","F","Female","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","F","Female","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","F","Female","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","M","Male","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","_T","Total","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","F","Female","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","M","Male","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","F","Female","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","_T","Total","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","F","Female","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","M","Male","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","F","Female","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","M","Male","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","_T","Total","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","F","Female","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","M","Male","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","_T","Total","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","F","Female","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",58864,,
+"BRA","Brazil","_T","Total","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",123127,,
+"BRA","Brazil","F","Female","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",246,,
+"BRA","Brazil","M","Male","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",285,,
+"BRA","Brazil","F","Female","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","M","Male","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","_T","Total","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","F","Female","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",9897,,
+"BRA","Brazil","M","Male","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",10996,,
+"BRA","Brazil","F","Female","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",102,,
+"BRA","Brazil","M","Male","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",178,,
+"BRA","Brazil","_T","Total","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",280,,
+"BRA","Brazil","F","Female","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","M","Male","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","M","Male","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",340638,,
+"BRA","Brazil","_T","Total","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",399655,,
+"BRA","Brazil","M","Male","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",1024,,
+"BRA","Brazil","F","Female","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","M","Male","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","F","Female","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",843,,
+"BRA","Brazil","M","Male","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",4068,,
+"BRA","Brazil","_T","Total","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",4911,,
+"BRA","Brazil","M","Male","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",34,,
+"BRA","Brazil","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",38,,
+"BRA","Brazil","M","Male","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","F","Female","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",320272,,
+"BRA","Brazil","M","Male","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",2336,,
+"BRA","Brazil","_T","Total","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",3310,,
+"BRA","Brazil","F","Female","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","_T","Total","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","F","Female","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",11443,,
+"BRA","Brazil","F","Female","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",89,,
+"BRA","Brazil","_T","Total","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",273,,
+"BRA","Brazil","F","Female","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","_T","Total","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","M","Male","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"DEU","Germany","M","Male","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",37011,,
+"JPN","Japan","_T","Total","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"DEU","Germany","M","Male","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",41773,,
+"USA","United States","_T","Total","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"DEU","Germany","_T","Total","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",50967,,
+"MEX","Mexico","_T","Total","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"DEU","Germany","M","Male","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",495,,
+"FRA","France","F","Female","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","F","Female","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","M","Male","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","F","Female","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","F","Female","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","F","Female","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","F","Female","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","M","Male","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",184,,
+"USA","United States","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","_T","Total","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","_T","Total","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"FRA","France","_T","Total","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"DEU","Germany","F","Female","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",11461,,
+"BRA","Brazil","M","Male","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",64263,,
+"FRA","France","M","Male","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",3207,,
+"FRA","France","_T","Total","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"DEU","Germany","F","Female","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",13956,,
+"USA","United States","M","Male","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"BRA","Brazil","F","Female","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",59017,,
+"BRA","Brazil","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","_T","Total","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","_T","Total","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",1169,"w","Includes data from another category"
+"USA","United States","M","Male","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"FRA","France","_T","Total","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",101358,,
+"USA","United States","F","Female","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","F","Female","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","M","Male","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",641165,,
+"JPN","Japan","F","Female","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","M","Male","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"DEU","Germany","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",2020,,
+"JPN","Japan","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"DEU","Germany","M","Male","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",115240,,
+"MEX","Mexico","M","Male","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","M","Male","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"BRA","Brazil","F","Female","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",974,,
+"USA","United States","_T","Total","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","F","Female","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",398,"w","Includes data from another category"
+"FRA","France","F","Female","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","F","Female","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",279244,,
+"BRA","Brazil","F","Female","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",4,,
+"DEU","Germany","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",16064,,
+"USA","United States","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","F","Female","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",199,,
+"FRA","France","_T","Total","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",13415,,
+"BRA","Brazil","_T","Total","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",531,,
+"JPN","Japan","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","M","Male","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"DEU","Germany","F","Female","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",59057,,
+"BRA","Brazil","_T","Total","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",981011,,
+"BRA","Brazil","_T","Total","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"FRA","France","M","Male","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",5667,,
+"FRA","France","_T","Total","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",8223,,
+"BRA","Brazil","M","Male","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",660739,,
+"MEX","Mexico","F","Female","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"FRA","France","M","Male","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",120239,,
+"MEX","Mexico","_T","Total","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","M","Male","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",55697,,
+"USA","United States","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"DEU","Germany","_T","Total","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",155957,,
+"JPN","Japan","M","Male","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",1223,,
+"DEU","Germany","_T","Total","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",115367,,
+"FRA","France","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","M","Male","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"DEU","Germany","F","Female","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",41067,,
+"BRA","Brazil","M","Male","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","M","Male","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",5304,"w","Includes data from another category"
+"JPN","Japan","M","Male","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","F","Female","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","_T","Total","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",61486,,
+"FRA","France","F","Female","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",6042,,
+"FRA","France","F","Female","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","_T","Total","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",31899,,
+"FRA","France","F","Female","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","M","Male","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",69336,,
+"FRA","France","F","Female","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",2556,,
+"DEU","Germany","M","Male","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",84492,,
+"DEU","Germany","M","Male","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",6039,,
+"DEU","Germany","F","Female","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",7223,,
+"DEU","Germany","M","Male","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",8178,,
+"DEU","Germany","F","Female","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",526,,
+"DEU","Germany","M","Male","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",1494,,
+"DEU","Germany","F","Female","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",4880,,
+"DEU","Germany","_T","Total","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",46807,,
+"JPN","Japan","F","Female","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",21797,"w","Includes data from another category"
+"JPN","Japan","M","Male","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",14882,"w","Includes data from another category"
+"JPN","Japan","_T","Total","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",9514,"w","Includes data from another category"
+"JPN","Japan","F","Female","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","_T","Total","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",67019,"w","Includes data from another category"
+"MEX","Mexico","_T","Total","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","M","Male","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","M","Male","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","F","Female","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","M","Male","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","F","Female","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","M","Male","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","F","Female","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","F","Female","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","M","Male","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","F","Female","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","M","Male","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","F","Female","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"BRA","Brazil","F","Female","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","M","Male","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","M","Male","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",16228,,
+"BRA","Brazil","_T","Total","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",27671,,
+"FRA","France","M","Male","F05","Natural sciences, mathematics and statistics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",6307,,
+"DEU","Germany","_T","Total","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",1056,,
+"DEU","Germany","M","Male","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",11184,,
+"DEU","Germany","M","Male","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",35346,,
+"MEX","Mexico","M","Male","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","M","Male","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","_T","Total","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"BRA","Brazil","_T","Total","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",20893,,
+"FRA","France","F","Female","F05","Natural sciences, mathematics and statistics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",58644,,
+"JPN","Japan","M","Male","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"JPN","Japan","M","Male","F06","Information and Communication Technologies (ICTs)","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"JPN","Japan","M","Male","F07","Engineering, manufacturing and construction","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",322327,"w","Includes data from another category"
+"MEX","Mexico","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","F","Female","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","M","Male","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","_T","Total","F07","Engineering, manufacturing and construction","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","M","Male","F07","Engineering, manufacturing and construction","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"FRA","France","_T","Total","F06","Information and Communication Technologies (ICTs)","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","M","Male","F05","Natural sciences, mathematics and statistics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","F","Female","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",95913,,
+"FRA","France","M","Male","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",151685,,
+"FRA","France","_T","Total","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",247598,,
+"FRA","France","F","Female","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",9336,,
+"FRA","France","M","Male","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",15181,,
+"FRA","France","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",24517,,
+"FRA","France","F","Female","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","M","Male","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","F","Female","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",86507,,
+"FRA","France","M","Male","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",184544,,
+"FRA","France","_T","Total","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",271051,,
+"FRA","France","F","Female","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",16647,,
+"FRA","France","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",45305,,
+"FRA","France","F","Female","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","M","Male","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"DEU","Germany","F","Female","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",207103.13,,
+"DEU","Germany","M","Male","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",588430.194,,
+"DEU","Germany","_T","Total","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",795533.324,,
+"DEU","Germany","F","Female","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",22932,,
+"DEU","Germany","M","Male","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",54434,,
+"DEU","Germany","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",77366,,
+"DEU","Germany","F","Female","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",2468,,
+"DEU","Germany","M","Male","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",5393,,
+"DEU","Germany","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",7861,,
+"DEU","Germany","F","Female","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",112425,,
+"DEU","Germany","M","Male","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",213323,,
+"DEU","Germany","M","Male","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",56373,,
+"DEU","Germany","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",82432,,
+"DEU","Germany","F","Female","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",1296,,
+"DEU","Germany","M","Male","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",2413,,
+"DEU","Germany","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",3709,,
+"JPN","Japan","F","Female","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","M","Male","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","_T","Total","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","F","Female","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","M","Male","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","F","Female","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","M","Male","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","F","Female","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","M","Male","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","_T","Total","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","F","Female","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","M","Male","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","M","Male","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"JPN","Japan","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","F","Female","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",397948,,
+"MEX","Mexico","M","Male","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",887864,,
+"MEX","Mexico","F","Female","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","M","Male","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","F","Female","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","M","Male","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","F","Female","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",11404,,
+"MEX","Mexico","M","Male","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",20980,,
+"MEX","Mexico","_T","Total","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",32384,,
+"MEX","Mexico","F","Female","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","M","Male","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"MEX","Mexico","F","Female","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","M","Male","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","F","Female","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","M","Male","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","_T","Total","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","F","Female","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","M","Male","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","F","Female","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","M","Male","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","F","Female","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","M","Male","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","_T","Total","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","F","Female","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","F","Female","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","M","Male","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"USA","United States","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","F","Female","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",438153,,
+"BRA","Brazil","M","Male","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",1065640,,
+"BRA","Brazil","_T","Total","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",1503793,,
+"BRA","Brazil","M","Male","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",3645,,
+"BRA","Brazil","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",5064,,
+"BRA","Brazil","F","Female","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","M","Male","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","F","Female","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",22183,,
+"BRA","Brazil","M","Male","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",31292,,
+"BRA","Brazil","_T","Total","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",53475,,
+"BRA","Brazil","F","Female","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",195,,
+"BRA","Brazil","M","Male","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",396,,
+"BRA","Brazil","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",591,,
+"BRA","Brazil","F","Female","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","M","Male","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"BRA","Brazil","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",,"o","Missing value"
+"FRA","France","M","Male","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",28658,,
+"DEU","Germany","_T","Total","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_7","Master’s or equivalent level","2020","2020",325748,,
+"DEU","Germany","F","Female","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",26059,,
+"JPN","Japan","F","Female","F05T07","Science, technology, engineering and mathematics","MOB_HOME","Homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"o","Missing value"
+"MEX","Mexico","_T","Total","F05T07","Science, technology, engineering and mathematics","_T","Total","ISCED11_6","Bachelor’s or equivalent level","2020","2020",1285812,,
+"USA","United States","M","Male","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"USA","United States","_T","Total","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_7","Master’s or equivalent level","2020","2020",,"k","Data included in another category"
+"BRA","Brazil","F","Female","F05T07","Science, technology, engineering and mathematics","MOB","Mobile including homecoming nationals","ISCED11_6","Bachelor’s or equivalent level","2020","2020",1419,,
