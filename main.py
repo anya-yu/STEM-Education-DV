@@ -3,8 +3,6 @@ import pandas as pd
 import numpy as np
 import geopandas as gpd
 from statsmodels.graphics.mosaicplot import mosaic
-from matplotlib.colors import Normalize
-from matplotlib.cm import ScalarMappable
 
 def bar_chart():
     # Graph 1 (Bar Chart)
