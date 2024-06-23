@@ -49,41 +49,46 @@ def bar_chart2020():
 
 
 def bar_chart2021():
-    # Graph 1 (Bar Chart)
-    stem_enrolled_df = pd.read_csv('datasets/enrolled-by-gender.csv')
+    # Graph 2 (Bar Chart)
+    stem_enrolled_df = pd.read_csv('datasets/enrolled-by-stem-field.csv')
     print(list(stem_enrolled_df.columns))
 
     # prep data
     stem_enrolled_df = stem_enrolled_df[['Country', 'Year', 'Field', 'Value', 'EDUCATION_LEV', 'SEX', 'MOBILITY']]
-    stem_enrolled_df = stem_enrolled_df.drop(stem_enrolled_df[stem_enrolled_df['SEX'] != '_T'].index)
-    stem_enrolled_df = stem_enrolled_df.drop(stem_enrolled_df[stem_enrolled_df['MOBILITY'] != '_T'].index)
+    stem_enrolled_df = stem_enrolled_df.dropna()
+    stem_enrolled_df = stem_enrolled_df.drop(stem_enrolled_df[stem_enrolled_df['SEX'] != '_T'].index) # all genders
+    stem_enrolled_df = stem_enrolled_df.drop(stem_enrolled_df[stem_enrolled_df['Year'] != 2021].index) # only 2021
+    stem_enrolled_df = stem_enrolled_df.drop(stem_enrolled_df[stem_enrolled_df['MOBILITY'] != '_T'].index) # all mobility
+    print(stem_enrolled_df.head(10))
 
-    # check for unique
-    print(f'Unique Years: {pd.unique(stem_enrolled_df["Year"])}')
-    print(f'Unique SEX: {pd.unique(stem_enrolled_df["SEX"])}')
-    print(f'Unique MOBILITY: {pd.unique(stem_enrolled_df["MOBILITY"])}')
-    print(f'Unique Country: {pd.unique(stem_enrolled_df["Country"])}')
+    def is_whole_number(x):
+        return x == int(x)
+
+    # Drop rows where the specified column contains non-whole numbers
+    stem_enrolled_df = stem_enrolled_df[stem_enrolled_df['Value'].apply(is_whole_number)] # value should only be whole numbers since its by population
 
     stem_enrolled_df = stem_enrolled_df.groupby(['Country', 'Field'], as_index=False)['Value'].sum()
     stem_enrolled_df = stem_enrolled_df.drop(stem_enrolled_df[stem_enrolled_df['Value'] == 0].index)
-    stem_enrolled_df['Value'] = stem_enrolled_df['Value']/1000000   # in millions
+    stem_enrolled_df['Value'] = stem_enrolled_df['Value']/1000   # in thousands
 
-    print(f'Head: {stem_enrolled_df}')
+    print(stem_enrolled_df.head(10))
     print(f'Columns: {list(stem_enrolled_df.columns)}')
     print(f'Number of Rows: {stem_enrolled_df.shape[0]}')
+    print(f'Min: {stem_enrolled_df['Value'].min()}')
+    print(f'Max: {stem_enrolled_df['Value'].max()}')
 
     # graph 
     # add data to a pivot table
     pivot = stem_enrolled_df.pivot(index='Country', columns='Field', values='Value').fillna(0)
 
     # plot the data
-    pivot.plot(kind='bar', figsize=(10, 6), color=['#231942', '#5e548e', '#9f86c0', '#be95c4'], zorder=3)
+    pivot.plot(kind='bar', figsize=(10, 6), color=['#efc7c2', '#ffe5d4', '#bfd3c1', '#68a691'], zorder=3)
 
     # customize the plot
     plt.grid(True, which='both', linestyle='--', linewidth=0.7, zorder=0)
-    plt.title('Number of Students in Each STEM Related Field by Country')
+    plt.title('Number of Students in STEM Fields by Country in 2021')
     plt.xlabel('Country')
-    plt.ylabel('Number of Students (in millions)')
+    plt.ylabel('Number of Students (in thousands)')
     plt.xticks(rotation=45)  # Rotate x-axis labels to 45 degrees for better readability
     plt.legend(title='Fields')
 
