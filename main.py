@@ -4,9 +4,53 @@ import numpy as np
 import geopandas as gpd
 from statsmodels.graphics.mosaicplot import mosaic
 
-def bar_chart():
+def bar_chart2020():
     # Graph 1 (Bar Chart)
     stem_enrolled_df = pd.read_csv('datasets/top-percent-enrolled-per-country-20.csv')
+    print(list(stem_enrolled_df.columns))
+
+    # prep data
+    stem_enrolled_df = stem_enrolled_df[['Country', 'Year', 'Field', 'Value', 'EDUCATION_LEV', 'SEX', 'MOBILITY']]
+    stem_enrolled_df = stem_enrolled_df.drop(stem_enrolled_df[stem_enrolled_df['SEX'] != '_T'].index)
+    stem_enrolled_df = stem_enrolled_df.drop(stem_enrolled_df[stem_enrolled_df['MOBILITY'] != '_T'].index)
+
+    # check for unique
+    print(f'Unique Years: {pd.unique(stem_enrolled_df["Year"])}')
+    print(f'Unique SEX: {pd.unique(stem_enrolled_df["SEX"])}')
+    print(f'Unique MOBILITY: {pd.unique(stem_enrolled_df["MOBILITY"])}')
+    print(f'Unique Country: {pd.unique(stem_enrolled_df["Country"])}')
+
+    stem_enrolled_df = stem_enrolled_df.groupby(['Country', 'Field'], as_index=False)['Value'].sum()
+    stem_enrolled_df = stem_enrolled_df.drop(stem_enrolled_df[stem_enrolled_df['Value'] == 0].index)
+    stem_enrolled_df['Value'] = stem_enrolled_df['Value']/1000000   # in millions
+
+    print(f'Head: {stem_enrolled_df}')
+    print(f'Columns: {list(stem_enrolled_df.columns)}')
+    print(f'Number of Rows: {stem_enrolled_df.shape[0]}')
+
+    # graph 
+    # add data to a pivot table
+    pivot = stem_enrolled_df.pivot(index='Country', columns='Field', values='Value').fillna(0)
+
+    # plot the data
+    pivot.plot(kind='bar', figsize=(10, 6), color=['#231942', '#5e548e', '#9f86c0', '#be95c4'], zorder=3)
+
+    # customize the plot
+    plt.grid(True, which='both', linestyle='--', linewidth=0.7, zorder=0)
+    plt.title('Number of Students in Each STEM Related Field by Country')
+    plt.xlabel('Country')
+    plt.ylabel('Number of Students (in millions)')
+    plt.xticks(rotation=45)  # Rotate x-axis labels to 45 degrees for better readability
+    plt.legend(title='Fields')
+
+    # display the plot
+    plt.tight_layout()  # Adjust layout to make room for rotated x-axis labels
+    plt.show()
+
+
+def bar_chart2021():
+    # Graph 1 (Bar Chart)
+    stem_enrolled_df = pd.read_csv('datasets/enrolled-by-gender.csv')
     print(list(stem_enrolled_df.columns))
 
     # prep data
@@ -137,7 +181,7 @@ def nested_donut_chart():
     stem_nonstem_df['Field'] = ["Stem" if field in stem_list else "Non-Stem" for field in stem_nonstem_df['Field']]
 
     print(f'Changed field names: {stem_nonstem_df.head(10)}')
-    print(f'Unique education levels: {stem_nonstem_df['Field'].unique()}')
+    # print(f'Unique education levels: {stem_nonstem_df['Field'].unique()}')
 
     ed_lvl_map = {
     'Upper secondary vocational education': 'Upper Secondary',
@@ -453,10 +497,11 @@ def unempchoropleth():
 
 
 # Run Graphs
-bar_chart()
-scatter_plot()
-nested_donut_chart()
-emosaic_plot(2021)
-gmosaic_plot(2021)
-empchoropleth()
-unempchoropleth()
+# bar_chart2020()
+bar_chart2021()
+# scatter_plot()
+# nested_donut_chart()
+# emosaic_plot(2021)
+# gmosaic_plot(2021)
+# empchoropleth()
+# unempchoropleth()
