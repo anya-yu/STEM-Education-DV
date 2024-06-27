@@ -502,11 +502,11 @@ def unempchoropleth():
 
 
 # Run Graphs
-# bar_chart2020()
+bar_chart2020()
 bar_chart2021()
-# scatter_plot()
-# nested_donut_chart()
-# emosaic_plot(2021)
-# gmosaic_plot(2021)
-# empchoropleth()
-# unempchoropleth()
+scatter_plot()
+nested_donut_chart()
+emosaic_plot(2021)
+gmosaic_plot(2021)
+empchoropleth()
+unempchoropleth()
